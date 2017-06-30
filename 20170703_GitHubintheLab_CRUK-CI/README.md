@@ -6,9 +6,9 @@
 
 ### Summary
 
-This will be a discussion with members of the CRUK-CI [Bioinformatics Core](http://www.cruk.cam.ac.uk/core-facilities/bioinformatics-core). It will start with a broad overview of our efforts to share research computer code, figures and tables with our experimental collaborators in a robust and reproducible manner using [GitHub](https://github.com/). I will cover how we share while research projects develop as well as during pre/post-publication. Finally I aim to identify areas where we can further improve.
+This will be a discussion with members of the CRUK-CI [Bioinformatics Core](http://www.cruk.cam.ac.uk/core-facilities/bioinformatics-core). It will start with a broad overview of our efforts to share research computer code, figures and tables with our experimental collaborators in a robust and reproducible manner using [GitHub](https://github.com/). I will cover how we share while research projects develop as well as during pre/post-publication. Finally I aim to identify areas where we can improve further.
 
-s
+
 ### Contents
 
 
