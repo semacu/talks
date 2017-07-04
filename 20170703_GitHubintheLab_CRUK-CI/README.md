@@ -35,4 +35,8 @@ This will be a discussion with members of the CRUK-CI [Bioinformatics Core](http
 - include versions of the manuscript preparation in our public github shares released with the publication
 - freeze version of the software code when paper is published and continue further development in new versions
 - [gitter](https://gitter.im/)
+- GitLab allows hierarchies (subgroups) of [projects](https://docs.gitlab.com/ce/user/group/subgroups/index.html)
+
+
+
 
