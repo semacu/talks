@@ -2,7 +2,7 @@
 
 This repository contains my recent invited talks:
 
-- [**Cambridge Research Data Champions Forum**]( 	20170914_CambridgeResearchDataChampionsForum), 14th September 2017, Office of Scholarly Communication, University Library, Cambridge, UK
+- [**Exchanging with students and researchers interested in data and code management and analysis**]( 	20170914_CambridgeResearchDataChampionsForum), 14th September 2017, Office of Scholarly Communication, University Library, Cambridge, UK
 
 - [**Jisc Research Data Champions**](20170801_JiscResearchDataChampions), 1st August 2017, Office of Scholarly Communication, University Library, Cambridge, UK
 
