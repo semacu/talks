@@ -13,7 +13,7 @@ The development of antibody and chemical methods to map modifications in DNA at 
 ### Poster
 
 <p align="center">
-<img src=UniversityCambridge_logo.png width="800">
+<img src=images/20171014_poster.png width="800">
 </p>
 
 
@@ -22,4 +22,7 @@ The development of antibody and chemical methods to map modifications in DNA at 
 This work is distributed under a [CC-BY license](https://en.wikipedia.org/wiki/Creative_Commons_license). Anyone may copy, distribute, display and perform the work and make derivative works and remixes based on it only if they give the author attribution.
 
 
-<img src=../20170801_JiscResearchDataChampions/UniversityCambridge_logo.png height="50"> <img src=CRUKCI_logo.jpg height="50"> <img src=../20170801_JiscResearchDataChampions/Jisc_logo.png height="50">
+<p align="center">
+<img src=images/UniversityCambridge_logo.png height="50"> <img src=images/CRUKCI_logo.jpg height="50"> <img src=images/Jisc_logo.png height="50"> <img src=images/WellcomeTrust_logo.jpg height="50">
+</p>
+
