@@ -1,9 +1,8 @@
 
-## Genome informatics conference
+## Exploring the chemistry and biology of nucleobase modifications in DNA
 
-- 1st - 4th November 2017, Cold Spring Harbour Laboratory, New York, US
+1st - 4th November 2017, [Genome Informatics conference](https://meetings.cshl.edu/meetings.aspx?meet=INFO&year=17), Cold Spring Harbour Laboratory, New York, US
 
-https://meetings.cshl.edu/meetings.aspx?meet=INFO&year=17
 
 
 ### Abstract
