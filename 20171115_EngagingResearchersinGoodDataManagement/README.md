@@ -7,7 +7,7 @@
 
 Marta Busse-Wicher and Sergio Martínez Cuesta gave an overview of the Cambridge Data Champions programme and the activities created by the participants.
 
-[Video](https://www.youtube.com/watch?v=hRoqQX97F6o) and [slides]()
+[Video](https://www.youtube.com/watch?v=hRoqQX97F6o) and [slides](PRE_EngagingResearchersMBWandSMC2017_V4_20171114.pptx)
 
 ### License
 
