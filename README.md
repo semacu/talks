@@ -2,6 +2,8 @@
 
 This repository contains my recent invited talks and presentations:
 
+- [**A World of Activities by Cambridge Data Champions**](20171115_EngagingResearchersinGoodDataManagement), 15th November 2017, St Catharine’s College, University of Cambridge, UK
+
 - [**Exploring the chemistry and biology of nucleobase modifications in DNA**](20171101-04_GenomeInformatics), 1st - 4th November 2017, Cold Spring Harbour Laboratory, New York, US
 
 - [**Exchanging with students and researchers interested in data and code management and analysis**](20170914_CambridgeResearchDataChampionsForum), 14th September 2017, Office of Scholarly Communication, University Library, Cambridge, UK
