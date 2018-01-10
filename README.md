@@ -4,7 +4,7 @@ This repository contains my recent invited talks and presentations:
 
 ### 2018
 
-- [**Explorando modificaciones químicas en ADN - una perspectiva bioinformática**](2018420_ViernesCientificos_UniversidadAlmeria), [Viernes Científicos](http://www.viernescientificos.org/), 20 Abril 2018, Universidad de Almería, España
+- [**Explorando modificaciones químicas en ADN - una perspectiva bioinformática**](20180420_ViernesCientificos_UniversidadAlmeria), [Viernes Científicos](http://www.viernescientificos.org/), 20 Abril 2018, Universidad de Almería, España
 
 
 ### 2017
